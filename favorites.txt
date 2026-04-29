@@ -2,3 +2,8 @@ Favorite Foods:
 - Biryani
 - Pizza
 - Dosa
+
+Favorite Movies:
+- Interstellar
+- Leo
+- Avengers
